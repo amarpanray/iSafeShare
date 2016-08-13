@@ -1,0 +1,15 @@
+7/13/2016 3 hours
+Design Classes and downloading Xamarin for Androids
+
+7/14/2016 2 hours
+Re Created / Re Organized and renamed Solution
+	changed iShafeShare to iSafeShare
+
+7/16/2016 4 hours
+Added Class Diagram and stared at it mindlessly for hours
+
+7/17/2016
+
+7/24/2016 1 hour
+Redesigned classes Interface/ILike..Got rid of Like Class.
+removed IPerson. Person is now a base class
