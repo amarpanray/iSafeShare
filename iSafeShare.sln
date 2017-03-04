@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSafeShare", "iSafeShare\iSafeShare.csproj", "{152B9AE8-18D3-4E66-9B49-3234128F5C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSafeShare.Tests", "iSafeShare.Tests\iSafeShare.Tests.csproj", "{BE729DB9-74D1-40D5-8D4C-FE6F208F8D80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentations", "Documentations", "{253EE0E5-BF7C-412F-9965-BA19D5BC7EB3}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation BackUp from iPhone.txt = Documentation BackUp from iPhone.txt
+		..\..\..\Hour Log.txt = ..\..\..\Hour Log.txt
+		To Do.txt = To Do.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152B9AE8-18D3-4E66-9B49-3234128F5C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152B9AE8-18D3-4E66-9B49-3234128F5C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152B9AE8-18D3-4E66-9B49-3234128F5C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152B9AE8-18D3-4E66-9B49-3234128F5C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE729DB9-74D1-40D5-8D4C-FE6F208F8D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE729DB9-74D1-40D5-8D4C-FE6F208F8D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE729DB9-74D1-40D5-8D4C-FE6F208F8D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE729DB9-74D1-40D5-8D4C-FE6F208F8D80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

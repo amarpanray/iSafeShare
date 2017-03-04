@@ -1,0 +1,31 @@
+STOP - Reasearch  Ads and ad placement
+Get rid of Facebook blue
+
+Set Up GIT 
+
+Create online account for Class Design questions.
+
+Look into hosting, what matters is unlimited storage space
+
+look up best practice for everything, ex: upload certain files
+
+How to implement other UIs ..iPhone, Android etc?
+	Pull Business Logic in its own project, create reference to project.
+	Use MVC web as UI
+
+Look into Hosting
+
+8/29/20106
+Wireframe: Start with UI to get a better idea of Architecture
+		 : Combine login and register views into 1 page
+		 		
+All application variables should be set in web config.
+
+Hosting  : Find hosting (AWS, )
+	Unlimited uploads (images, text, video)
+
+	LOGIN
+		PLACE LABELS WITHIN TEXTBOXES
+		START APPLYING SOME STYLE THAT WILL EMANATE THROUGHOUT THE SITE
+		ADD NAME, GENDER, AGE FIELDS
+		USERNAME: MOBILE # EMAIL(SAME AS USERNAME) 		

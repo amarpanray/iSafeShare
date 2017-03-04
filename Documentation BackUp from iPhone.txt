@@ -1,0 +1,128 @@
+iSafeShare  - Sharing Made Simple ...
+(Use same font as visual studio)
+
+Make viral ?
+
+People would what to use hashtag, how would that translate to safe share
+
+Can you post an (cnn?) article in Text? 
+Task assignment box, can create task and (self) assign people 
+
+Can create easy polls. 
+- can highest voted destination be set automatically?
+
+Create fun short cuts for users .. Example Type something..username plus $ in url redirects you to your admin page. Easy with Mvc if $ is an acceptable parameter
+
+How Dee!
+Your ALL IN ONE to-do list, reminder, event organization, discussion board, poll, vacation/trip planner, private discussion, calendar, share photos/videos etc. 
+
+Set auto- destruct 
+
+
+
+
+Transparency :
+    Show bug fixes?
+
+Use code first migration?
+
+
+Ads can't be annoying
+You don't have to be friends to share, just use email. 
+
+Rules: 
+Minimize learning curve, not the same as refusing to learn down thing new - nerds please chill out. 
+
+Has to be simple and flexible 
+
+Work with existing concept, not reinventing the wheel or new concepts. 
+
+To do:
+Understand hosting options ..data, images and videos. 
+
+Understand ad based revenue. What is      available? How it has evolved?
+
+Is there a tool for polling
+
+
+Business plan
+What
+Why
+How
+
+No mailing list please!!!
+
+
+Name: "Pork Fish", "pork chop" Pong-Key, Japanese cartoon names?...must be 2 syllables and easy to pronounce English/French/ Spanish 
+
+Best way to advertise is when it shows on facebook. Remember 4 square and check ins.. But you don't want to share your events on facebook. Just say that you use the tool. 
+
+Amar used "" to create a private event. See how you can share privately too. 
+
+More effective than reply-all, more private than leading social media 
+Should be a calendar..but you can invite others to follow and collaborate on your events 
+
+Brand: Pigly, oinky
+Things to learn: JSON/angular js
+
+Provide draft vs final version of a post (??) no, because you can edit. 
+
+If something is a task, can it be assigned to someone? Can add people to list of assignees under task. No, just invite people to event. 
+
+Should be able to mention people, events to certain extent ...
+
+Should be able to private message someone or a group
+
+Display topic-based ad within discussion pages 
+
+Should act as a checklist. 
+Objective: to build a social media app that will allow users to securely and safely share  with specific individual or groups of invidual. Make users highly effective at sharing and planning. 
+
+Source Code searching and sharing (when set to public)
+
+FaceTime conference ? Video capable/live feed. Later, subsequent releases. 
+
+Organisé un happy hour. Cibler ceux qui ont tendance à utiliser la technologie. Utiliser l'app pour les inviter. En même temps démontrer l'utilité de l'app. 
+
+List of tasks should prioritizing capabilities etc.  easy up/down arrow and sortable by priority
+SAVE DRAFT should be easy - no draft. 
+
+USE SMILEY OR FROWNEY FACE FOR LIKES AND DISLIKES. 
+
+MAKE THEME EASY TO CHANGE IN CASE SELLING.. 
+
+Pay per impression
+Pay per click
+Pay per sales
+
+Http://www.thefreecountry.com/webmaster/affiliate.html
+
+Automated Context-Sensitive Advertising
+
+
+Get acquainted to azure. 
+
+SEND LOCATION TO SET GROUP OF PEOPLE. thundercats!
+
+Do users like anonymity ? Does this work?
+
+Send email reminders...like outlook calendar but keep email notifications to a minimum. 
+
+Two factor authentication that goes to cell. 
+
+
+Short term goal:
+Minimum expenses: example hosting, development, hardware, software
+
+Long term goal
+
+CROWDFUNDING  COMPUTER AND TOOLS. GIVE FREE AND SECURE SOCIAL MEDIA IN RETURN. THIS WAY IT SERVES AS MARKETING STRAT. TOO
+
+Terms and agreement that is signed by site to promise user to protect their privacy. 
+
+Make "viral" type YouTube video to promote crowdfunding - never mention competitors - put some personality in that shit!!!
+
+When you delete, it should really delete. Advertise that. 
+
+
+Ad on logging out
